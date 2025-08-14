@@ -1,1 +1,2 @@
-# Back-End-Development-CA1
+# Starter Repository for Assignment
+You are required to build your folder structures for your project.

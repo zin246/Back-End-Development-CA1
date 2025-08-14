@@ -1,0 +1,21 @@
+{
+  "name": "bed-ca1-zin246",
+  "version": "1.0.0",
+  "description": "You are required to build your folder structures for your project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run init_tables && jest --forceExit",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "init_tables": "node src/configs/initTables.js"
+  },
+  "author": "Tan Eu Zin",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.4",
+    "node": "^22.11.0",
+    "nodemon": "^3.1.9"
+  }
+}
