@@ -1,4 +1,4 @@
-## This AY202425 BED CA1project was done by :
+## This AY202425 BED CA1 project was done by :
 
 Name : Tan Eu Zin,
 Class : DAAA1B03,
@@ -82,3 +82,4 @@ DB_DATABASE=
 - Jovan Heng for help with idea generation and debugging whenever an unsolvable error shows up.
 - Xavier Lee for help with idea generation and debugging whenever an unsolvable error shows up.
 - Myself for sleeping 4 hours everynight the week before submission working on this assignment.
+
